@@ -27,3 +27,17 @@ Enthusiastic front-end developer with a passion for crafting responsive and enga
 
 - **Course Projects**  
   Successfully completed hands-on projects through Meta's web development course on Coursera, focusing on responsive web design and interactive features.
+
+### Education
+- **New Uzbekistan University**  
+  Pursuing a degree in Software Engineering.
+
+- **Meta Web Development Course**  
+  Completed a Coursera certification in web development.
+
+### English Proficiency
+Achieved an IELTS score of 7.0 (C1) in October 2020, demonstrating strong proficiency in English.
+
+---
+
+*Let’s connect and collaborate on exciting projects!*
