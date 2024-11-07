@@ -7,7 +7,7 @@ cv using markdown for rs school
 **Telegram:** @dadakhonov
 **Phone number:** +998338751305
 
-
+---
 
 ###Summary
 Enthusiastic front-end developer with a passion for crafting responsive and engaging web applications. Equipped with solid skills in HTML, CSS, JavaScript, and frameworks like React and Next.js, I'm excited to contribute to impactful projects. With a love for learning and adapting quickly, I thrive in team environments where I can grow and bring innovative solutions to life. I'm motivated to take on challenges, continuously improving my abilities to create seamless user experiences.
