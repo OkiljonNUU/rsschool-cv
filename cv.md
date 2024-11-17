@@ -1,6 +1,6 @@
 # Dadakhanov Okiljon  
 **Email**: 2110172@newuu.uz  
-**Telegram**: @dadakhonov  
+**Telegram**: t.me/dadakhonov  
 **Phone number**: +998338751305  
 
 ## Summary  
