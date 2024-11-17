@@ -16,7 +16,6 @@ Enthusiastic front-end developer with a passion for crafting responsive and enga
 - **Additional Skills**: SVG icon design, responsive layout design, basic animation techniques  
 
 ---
-
 ## Experience  
 
 ### Internship at Uzinfocom  
