@@ -50,7 +50,7 @@ Enthusiastic front-end developer with a passion for crafting responsive and enga
 
 ## Code Examples  
 
-### JavaScript Example: Find Longest Word  
+### JavaScript Example: Find Longest Word problem in JavaScript  
 ```javascript
 function findLongestWord(text) {
     const words = text.split(" ");
